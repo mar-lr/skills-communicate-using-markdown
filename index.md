@@ -11,3 +11,7 @@
 ###### This is an `<h6>` header, which is the smallest
 
 Trying some headers here.
+
+![Image of aurora borealis](https://picsum.photos/id/901/200/300.jpg)
+
+![Ramdom picture from Lorem Picsum](https://picsum.photos/200/300)
