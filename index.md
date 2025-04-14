@@ -15,3 +15,18 @@ Trying some headers here.
 ![Image of aurora borealis](https://picsum.photos/id/901/200/300.jpg)
 
 ![Ramdom picture from Lorem Picsum](https://picsum.photos/200/300)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` python
+x = 1
+if (x == 1):
+  print('yeah that x is 1')
+```
