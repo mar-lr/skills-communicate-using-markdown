@@ -30,3 +30,7 @@ x = 1
 if (x == 1):
   print('yeah that x is 1')
 ```
+
+- [x] First item (complete)
+- [ ] Second item (not complete)
+- [x] Third item (complete)
